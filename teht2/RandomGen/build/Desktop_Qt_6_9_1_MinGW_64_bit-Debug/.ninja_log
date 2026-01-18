@@ -1,0 +1,6 @@
+# ninja log v6
+31	377	7904669263289739	CMakeFiles/RandomGen.dir/random.cpp.obj	1420c7ab2e6c038a
+1	510	7904669263072995	CMakeFiles/RandomGen.dir/main.cpp.obj	9739f023e2097243
+512	796	7904669268184846	RandomGen.exe	ba38ba68acd18adf
+15	345	7904671267419576	CMakeFiles/RandomGen.dir/main.cpp.obj	9739f023e2097243
+346	446	7904671270717525	RandomGen.exe	ba38ba68acd18adf
