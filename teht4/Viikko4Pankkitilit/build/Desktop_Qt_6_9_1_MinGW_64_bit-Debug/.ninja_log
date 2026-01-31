@@ -1,0 +1,8 @@
+# ninja log v6
+7	459	7915662994091063	CMakeFiles/Viikko4Pankkitilit.dir/pankkitili.cpp.obj	61b07f95dfac047
+11	468	7915662994091063	CMakeFiles/Viikko4Pankkitilit.dir/luottotili.cpp.obj	157b743ca6911dd8
+15	491	7915662994166828	CMakeFiles/Viikko4Pankkitilit.dir/asiakas.cpp.obj	957a38cb83981c31
+1	516	7915662994028021	CMakeFiles/Viikko4Pankkitilit.dir/main.cpp.obj	7f2f6c9558ebdbef
+516	686	7915662999139736	Viikko4Pankkitilit.exe	e81530059cc7c2ac
+23	365	7915663427905155	CMakeFiles/Viikko4Pankkitilit.dir/main.cpp.obj	7f2f6c9558ebdbef
+366	475	7915663431424322	Viikko4Pankkitilit.exe	e81530059cc7c2ac
