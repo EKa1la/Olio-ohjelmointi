@@ -1,0 +1,11 @@
+# ninja log v6
+8	495	7921815764065016	CMakeFiles/Viikko5Notifikaattori.dir/seuraaja.cpp.obj	7f53ae1c4643cf80
+13	527	7921815764154807	CMakeFiles/Viikko5Notifikaattori.dir/notifikaattori.cpp.obj	d0f5b792e7539464
+2	557	7921815764044949	CMakeFiles/Viikko5Notifikaattori.dir/main.cpp.obj	acd0f787efb27699
+557	901	7921815769584199	Viikko5Notifikaattori.exe	b07c6e6c08039743
+15	339	7921817365083294	CMakeFiles/Viikko5Notifikaattori.dir/main.cpp.obj	acd0f787efb27699
+340	499	7921817368338060	Viikko5Notifikaattori.exe	b07c6e6c08039743
+4	340	7921820103543581	CMakeFiles/Viikko5Notifikaattori.dir/main.cpp.obj	acd0f787efb27699
+341	454	7921820107041676	Viikko5Notifikaattori.exe	b07c6e6c08039743
+3	314	7921820751608771	CMakeFiles/Viikko5Notifikaattori.dir/main.cpp.obj	acd0f787efb27699
+314	440	7921820754772625	Viikko5Notifikaattori.exe	b07c6e6c08039743
