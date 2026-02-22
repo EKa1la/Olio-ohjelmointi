@@ -1,0 +1,9 @@
+C:/Users/ADMIN/Documents/Olio-ohjelmointi/teht7/Viikko7Laskinapplikaatio/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/Viikko7Laskinapplikaatio.dir
+C:/Users/ADMIN/Documents/Olio-ohjelmointi/teht7/Viikko7Laskinapplikaatio/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/Documents/Olio-ohjelmointi/teht7/Viikko7Laskinapplikaatio/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ADMIN/Documents/Olio-ohjelmointi/teht7/Viikko7Laskinapplikaatio/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/ADMIN/Documents/Olio-ohjelmointi/teht7/Viikko7Laskinapplikaatio/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/ADMIN/Documents/Olio-ohjelmointi/teht7/Viikko7Laskinapplikaatio/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/ADMIN/Documents/Olio-ohjelmointi/teht7/Viikko7Laskinapplikaatio/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/ADMIN/Documents/Olio-ohjelmointi/teht7/Viikko7Laskinapplikaatio/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/Viikko7Laskinapplikaatio_autogen_timestamp_deps.dir
+C:/Users/ADMIN/Documents/Olio-ohjelmointi/teht7/Viikko7Laskinapplikaatio/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/Viikko7Laskinapplikaatio_autogen.dir
