@@ -1,0 +1,9 @@
+C:/Users/ADMIN/Documents/Olio-ohjelmointi/teht8/Viikko8shakkikello/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/Viikko8shakkikello.dir
+C:/Users/ADMIN/Documents/Olio-ohjelmointi/teht8/Viikko8shakkikello/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/Documents/Olio-ohjelmointi/teht8/Viikko8shakkikello/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ADMIN/Documents/Olio-ohjelmointi/teht8/Viikko8shakkikello/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/ADMIN/Documents/Olio-ohjelmointi/teht8/Viikko8shakkikello/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/ADMIN/Documents/Olio-ohjelmointi/teht8/Viikko8shakkikello/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/ADMIN/Documents/Olio-ohjelmointi/teht8/Viikko8shakkikello/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/ADMIN/Documents/Olio-ohjelmointi/teht8/Viikko8shakkikello/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/Viikko8shakkikello_autogen_timestamp_deps.dir
+C:/Users/ADMIN/Documents/Olio-ohjelmointi/teht8/Viikko8shakkikello/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/Viikko8shakkikello_autogen.dir

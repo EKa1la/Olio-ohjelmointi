@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f0124fac126056c77481.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Viikko8shakkikello",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Viikko8shakkikello::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Viikko8shakkikello-Debug-d41dcd597f6eb051b670.json",
+					"name" : "Viikko8shakkikello",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Viikko8shakkikello_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Viikko8shakkikello_autogen-Debug-15dded9449ba5e80be23.json",
+					"name" : "Viikko8shakkikello_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Viikko8shakkikello_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Viikko8shakkikello_autogen_timestamp_deps-Debug-70579175bc39d7f08722.json",
+					"name" : "Viikko8shakkikello_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ADMIN/Documents/Olio-ohjelmointi/teht8/Viikko8shakkikello/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/ADMIN/Documents/Olio-ohjelmointi/teht8/Viikko8shakkikello"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
